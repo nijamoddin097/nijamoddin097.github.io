@@ -64,7 +64,7 @@ const Hero = () => {
               className="bg-primary hover:bg-primary/90 text-primary-foreground glow-cyan transition-all duration-300 hover:scale-105"
               asChild
             >
-              <a href="/Nijamoddin-Hakkam-Resume.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.dropbox.com/scl/fi/q35solqlhp8qq8jzb1013/Nijamoddin-Hakkam-FlowCV-Resume-20251216.pdf?rlkey=xq75y48cfjimt80guszdepqv4&st=v8hvtkc6&dl=1" download>
                 <Download className="mr-2 h-5 w-5" />
                 Download Resume
               </a>
