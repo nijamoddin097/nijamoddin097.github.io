@@ -17,7 +17,7 @@ const Footer = () => {
 
   const socialLinks = [
     { icon: Mail, href: "mailto:nijamoddin097@gmail.com", label: "Email" },
-    { icon: Linkedin, href: "#", label: "LinkedIn" }, // Replace with actual URL
+    { icon: Linkedin, href: "https://www.linkedin.com/in/nijamoddin-h-bb0bb137a", label: "LinkedIn" },
     { icon: Github, href: "#", label: "GitHub" }, // Replace with actual URL
   ];
 
