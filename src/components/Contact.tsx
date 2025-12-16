@@ -66,7 +66,7 @@ const Contact = () => {
       icon: Linkedin,
       label: "LinkedIn",
       value: "Connect on LinkedIn",
-      href: "#", // Replace with actual LinkedIn URL
+      href: "https://www.linkedin.com/in/nijamoddin-h-bb0bb137a",
     },
     {
       icon: Github,
